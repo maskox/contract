@@ -5,7 +5,7 @@
 #MaskOX Labs features:
 I make this #MOX to hand over it to the community.
 Create the community by yourself if you are interested.   
-I suggest a telegram group name for you to create: https://t.me/maskox
+I suggest a telegram group name for you to create: https://t.me/oxlabs
 get the airdrop and selfdrop by the web https://maskox.github.io/airdrop
 
 1.Each user participating in the Airdrop must participate through a referral link of another person to join
